@@ -114,7 +114,7 @@ This project delivers tangible benefits to HR and leadership teams:
 ## 📊 Sample Visuals from Power BI
 
 ### 🔹 Overall Attrition Overview
-![Attrition Overview](eee.png)
+![Attrition Overview](https://github.com/ABHINAV-DAHAYAT/hr-attrition-prediction/blob/bda16dbbe5af666ec8de3d9ebd4d38a110acbc54/Screenshot%202025-10-16%20235127%20overall.png)
 
 ### 🔹 Department-Wise Attrition Comparison
 ![Department Analysis](screenshots/department.png)

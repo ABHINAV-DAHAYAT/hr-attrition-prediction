@@ -119,6 +119,15 @@ This project delivers tangible benefits to HR and leadership teams:
 ### 🔹 Department-Wise Attrition Comparison
 ![Department Analysis](https://github.com/ABHINAV-DAHAYAT/hr-attrition-prediction/blob/c37df5a1a0a16ea449eb2bd941ade50847daddc2/eee.png)
 
-### 🔹 Predictive Attrition Insights (Python Integration)
-![Prediction Dashboard](screenshots/prediction.png)
 
+# 👨‍💻 Author
+
+## Abhinav Dahayat
+🎓 Data Analyst |Excel | Power BI | SQL | Python | Machine Learning
+🌐 GitHub: ABHINAV-DAHAYAT
+
+💼 LinkedIn: https://www.linkedin.com/in/abhinavdahayat/
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub to show your support and help others discover it!

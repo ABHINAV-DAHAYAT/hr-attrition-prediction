@@ -29,3 +29,14 @@ Help HR teams make informed, proactive retention decisions.
 ⚙️ Custom DAX Measures – Calculates attrition rate, satisfaction scores, and average income.
 
 🔄 Automated Data Cleaning – Ensures data accuracy and consistency for better decision-making.
+
+### 🧰 Technologies Used
+| Tool / Language                     | Purpose                                   |
+| ----------------------------------- | ----------------------------------------- |
+| **Power BI**                        | Data visualization and dashboard creation |
+| **Power Query (M Language)**        | Data transformation and cleaning          |
+| **DAX (Data Analysis Expressions)** | Custom metrics and calculations           |
+| **Python (Pandas, Scikit-learn)**   | Predictive model for attrition            |
+| **SQL**                             | Data extraction and preprocessing         |
+| **Excel / CSV**                     | Raw data source                           |
+

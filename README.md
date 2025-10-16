@@ -53,3 +53,72 @@ Job Satisfaction, Overtime, and Work Experience
 Attrition status (“Yes” or “No”)
 
 The data was cleaned and processed before visualization to ensure accuracy and integrity.
+## 🧠 Methodology
+
+### Data Collection & Cleaning
+
+Imported HR dataset (CSV/Excel)
+
+Removed duplicates, handled missing values, standardized column names
+
+Converted categorical variables to numeric where required
+
+### Exploratory Data Analysis (EDA)
+
+Identified correlations between attrition and features such as salary, overtime, and satisfaction
+
+Visualized patterns using histograms, heatmaps, and bar charts
+
+### Data Modeling & DAX Calculations
+
+Created calculated columns and measures in Power BI for attrition rate, tenure, and salary bands
+
+### Predictive Modeling (Optional Python Integration)
+
+Applied Logistic Regression / Random Forest to predict probability of attrition
+
+Evaluated model using accuracy, precision, recall, and AUC score
+
+### Dashboard Development
+
+Built interactive visuals and KPIs in Power BI
+
+Added slicers for department, gender, and job role filters
+
+### 💡 Key Insights
+
+🚪 Overall Attrition Rate: ~16%
+
+💰 Income Effect: Employees with lower salaries and frequent overtime have higher attrition risk.
+
+❤️ Job Satisfaction: Low satisfaction scores strongly correlate with turnover.
+
+🧑‍💼 Department Impact: Sales shows the highest attrition rate, followed by HR.
+
+🕒 Experience Factor: Employees with 2–5 years of experience are most likely to leave.
+
+### 🏢 Business Impact
+
+This project delivers tangible benefits to HR and leadership teams:
+
+✅ Early identification of high-risk employees
+
+✅ Data-backed retention and engagement strategies
+
+✅ Reduction in hiring and onboarding costs
+
+✅ Improved workforce stability and satisfaction
+
+✅ Better resource planning and succession management
+
+## 📊 Sample Visuals from Power BI
+
+### 🔹 Overall Attrition Overview
+![Attrition Overview](eee.png)
+
+### 🔹 Department-Wise Attrition Comparison
+![Department Analysis](screenshots/department.png)
+
+### 🔹 Predictive Attrition Insights (Python Integration)
+![Prediction Dashboard](screenshots/prediction.png)
+

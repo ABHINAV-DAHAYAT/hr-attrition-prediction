@@ -114,7 +114,7 @@ This project delivers tangible benefits to HR and leadership teams:
 ## 📊 Sample Visuals from Power BI
 
 ### 🔹 Overall Attrition Overview
-![Attrition Overview](eee.png)
+![Attrition Overview](<img width="1162" height="613" alt="eee" src="https://github.com/user-attachments/assets/c46df85f-fcea-4898-a2c7-c160a777bf6a" />)
 
 ### 🔹 Department-Wise Attrition Comparison
 ![Department Analysis](screenshots/department.png)

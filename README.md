@@ -40,3 +40,16 @@ Help HR teams make informed, proactive retention decisions.
 | **SQL**                             | Data extraction and preprocessing         |
 | **Excel / CSV**                     | Raw data source                           |
 
+### 📊 Data Source
+
+The dataset used in this project is based on a sample HR Employee Attrition dataset containing information such as:
+
+Age, Gender, Education
+
+Department, Job Role, Monthly Income
+
+Job Satisfaction, Overtime, and Work Experience
+
+Attrition status (“Yes” or “No”)
+
+The data was cleaned and processed before visualization to ensure accuracy and integrity.

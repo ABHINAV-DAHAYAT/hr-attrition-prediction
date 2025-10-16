@@ -117,7 +117,7 @@ This project delivers tangible benefits to HR and leadership teams:
 ![Attrition Overview](https://github.com/ABHINAV-DAHAYAT/hr-attrition-prediction/blob/bda16dbbe5af666ec8de3d9ebd4d38a110acbc54/Screenshot%202025-10-16%20235127%20overall.png)
 
 ### 🔹 Department-Wise Attrition Comparison
-![Department Analysis](screenshots/department.png)
+![Department Analysis](https://github.com/ABHINAV-DAHAYAT/hr-attrition-prediction/blob/c37df5a1a0a16ea449eb2bd941ade50847daddc2/eee.png)
 
 ### 🔹 Predictive Attrition Insights (Python Integration)
 ![Prediction Dashboard](screenshots/prediction.png)
